@@ -1,6 +1,6 @@
 # Autonomous-Robot
 
-Group Final project project to create an obstacle avoiding robot. 
+Group final project to create an obstacle avoiding robot. 
 
 Task 1 - Use a joystick to manually move the RC
 
